@@ -1,4 +1,4 @@
-# Objective C Coding Standards
+# Objective-C Coding Standards
 ## 1. Best Practices
 1. Avoid using Primitive datatypes.  
 2. Always use 'YES' or 'NO' for BOOL and not string literals. 'Use YES/NO' rather than 'true/false'. 
